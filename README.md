@@ -1,4 +1,4 @@
-![Banner](./Banner.png)
+![Banner](./Banner)
 <h1 align="center">Hi 👋, I'm MD HRIDOY HOSSAIN</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
